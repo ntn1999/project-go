@@ -7,10 +7,7 @@ Customer Management System is a simple Go application for managing customer info
 1. Ensure you have Go installed on your computer. If not, you can download Go from the official Go website: https://golang.org/
 
 2. Clone the project from the GitHub repository:
-git clone https://github.com/yourusername/customer-management-system.git
-3. Navigate to the project directory:
-cd customer-management-system
-4. Install the necessary libraries by running:
+git clone https://github.com/ntn1999/project-go.git
 ## Running the Application
 
 1. Start the application server with the following command:
